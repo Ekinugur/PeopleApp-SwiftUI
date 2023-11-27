@@ -1,6 +1,7 @@
 # PeopleApp-SwiftUI
 
-<b>Description<b>
+<b> Description 
+<b>
 
 This is the first app of the Kasım Adalan Udemy Courses 
 
