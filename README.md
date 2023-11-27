@@ -2,7 +2,7 @@
 
 ## <b>Description </b>
 
-This is the first app of the Kasım Adalan Udemy Courses 
+This is the first app of the Kasım Adalan Udemy Swift Ui Courses 
 
 ## <b>Technologies and Libraries  </b>
 MVVM
